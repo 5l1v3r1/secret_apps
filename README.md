@@ -10,7 +10,10 @@
 APKPURE в етих приложений можна много всево скачать 
 
 # APKPURE
+
 Категория: плей маркет
+
 Андроид 4.4+ и више
+
 Силка на скачивание с официального сайта.
 https://www.google.com/amp/s/m.apkpure.com/ru/apkpure/com.apkpure.aegon/amp
